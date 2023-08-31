@@ -25,6 +25,10 @@ Aplikasi ini menyimpan riwayat kuis yang telah dikerjakan oleh pengguna. Penggun
 ### 6. Desain Responsif
 Quizzin dirancang dengan desain responsif sehingga dapat diakses melalui berbagai perangkat, termasuk desktop, tablet, dan ponsel. Ini memastikan pengalaman pengguna yang konsisten tanpa memandang perangkat yang digunakan.
 
+### 7. Manajemen Pengguna
+Aplikasi ini dilengkapi dengan fitur manajemen pengguna yang memungkinkan administrator untuk mengelola akun pengguna. Administrator dapat membuat akun baru, mengatur hak akses, dan mengelola informasi user secara efisien.
+
+
 Quizzin adalah pilihan yang tepat bagi siapa saja yang ingin belajar sambil bermain. Dengan berbagai fitur interaktifnya, aplikasi ini mengubah pembelajaran menjadi pengalaman yang lebih menarik dan interaktif.
 
 Kunjungi situs web Quizzin kami dan mulailah petualangan belajar Anda hari ini!
