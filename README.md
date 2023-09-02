@@ -1,6 +1,11 @@
 # Quizzin-App
 Tugas Akhir Mata Kuliah Pemograman Aplikasi Web
 Nama Web : Quizzin
+Nama anggota kelompok:
+- Rayhan Dwi Ramadhan (21537144041)
+- Azhar Syahid Dien Hanifa (21537144059)
+- Yoga Sulistiyo Widodo (21537144060)
+
 # Deskripsi Aplikasi Web Quizzin
 
 Quizzin adalah aplikasi web berbasis kuis yang menarik dan interaktif, dibangun dengan menggunakan framework Laravel. Aplikasi ini bertujuan untuk memberikan pengalaman belajar yang menyenangkan sambil menguji pengetahuan pengguna dalam berbagai subjek.
@@ -32,8 +37,3 @@ Aplikasi ini dilengkapi dengan fitur manajemen pengguna yang memungkinkan admini
 Quizzin adalah pilihan yang tepat bagi siapa saja yang ingin belajar sambil bermain. Dengan berbagai fitur interaktifnya, aplikasi ini mengubah pembelajaran menjadi pengalaman yang lebih menarik dan interaktif.
 
 Kunjungi situs web Quizzin kami dan mulailah petualangan belajar Anda hari ini!
-
-Nama anggota kelompok:
-- Rayhan Dwi Ramadhan (21537144041)
-- Azhar Syahid Dien Hanifa (21537144059)
-- Yoga Sulistiyo Widodo (21537144060)
