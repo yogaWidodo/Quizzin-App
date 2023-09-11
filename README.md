@@ -1,39 +1,64 @@
-# Quizzin-App
-Tugas Akhir Mata Kuliah Pemograman Aplikasi Web
-Nama Web : Quizzin
-Nama anggota kelompok:
-- Rayhan Dwi Ramadhan (21537144041)
-- Azhar Syahid Dien Hanifa (21537144059)
-- Yoga Sulistiyo Widodo (21537144060)
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-# Deskripsi Aplikasi Web Quizzin
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-Quizzin adalah aplikasi web berbasis kuis yang menarik dan interaktif, dibangun dengan menggunakan framework Laravel. Aplikasi ini bertujuan untuk memberikan pengalaman belajar yang menyenangkan sambil menguji pengetahuan pengguna dalam berbagai subjek.
+## About Laravel
 
-## Fitur Utama
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-### 1. Pembuatan Kuis
-Dengan Quizzin, pengguna memiliki kemampuan untuk membuat kuis mereka sendiri. Melalui antarmuka yang intuitif, pengguna dapat membuat kuis dengan judul khusus, menambahkan pertanyaan, dan mengatur pilihan jawaban yang sesuai.
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-### 2. Beragam Topik
-Aplikasi ini mendukung berbagai macam topik kuis. Pengguna dapat memilih dari sejumlah kategori yang berbeda, seperti sains, sejarah, matematika, dan banyak lagi. Ini memungkinkan pengguna untuk memilih kuis yang sesuai dengan minat dan pengetahuan mereka.
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-### 3. Pilihan Ganda dan Benar/Salah
-Quizzin mendukung jenis pertanyaan pilihan ganda dan benar/salah. Pengguna dapat dengan mudah membuat pertanyaan dengan beberapa opsi jawaban dan menandai jawaban yang benar.
+## Learning Laravel
 
-### 4. Skor dan Hasil Instan
-Setelah menyelesaikan kuis, pengguna akan segera mendapatkan skor mereka beserta jawaban yang benar dan salah. Ini memberikan umpan balik instan dan membantu pengguna untuk melihat sejauh mana pengetahuan mereka dalam topik tertentu.
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-### 5. Riwayat Kuis
-Aplikasi ini menyimpan riwayat kuis yang telah dikerjakan oleh pengguna. Pengguna dapat melihat kembali kuis sebelumnya beserta skor yang diperoleh, memungkinkan mereka untuk melacak perkembangan belajar mereka dari waktu ke waktu.
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-### 6. Desain Responsif
-Quizzin dirancang dengan desain responsif sehingga dapat diakses melalui berbagai perangkat, termasuk desktop, tablet, dan ponsel. Ini memastikan pengalaman pengguna yang konsisten tanpa memandang perangkat yang digunakan.
+## Laravel Sponsors
 
-### 7. Manajemen Pengguna
-Aplikasi ini dilengkapi dengan fitur manajemen pengguna yang memungkinkan administrator untuk mengelola akun pengguna. Administrator dapat membuat akun baru, mengatur hak akses, dan mengelola informasi user secara efisien.
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
+### Premium Partners
 
-Quizzin adalah pilihan yang tepat bagi siapa saja yang ingin belajar sambil bermain. Dengan berbagai fitur interaktifnya, aplikasi ini mengubah pembelajaran menjadi pengalaman yang lebih menarik dan interaktif.
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
 
-Kunjungi situs web Quizzin kami dan mulailah petualangan belajar Anda hari ini!
+## Contributing
+
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
